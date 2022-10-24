@@ -1,5 +1,4 @@
 "### hook_test" 
 
-```php
-php php php
+```php goooo php php php
 ```
